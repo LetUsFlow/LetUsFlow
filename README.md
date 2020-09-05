@@ -4,4 +4,3 @@ I'm a hobby developer focusing on Java, web development (HTML, CSS, JS, PHP) and
 
 - 🔭 I’m currently working on some Python projects
 - 🌱 I’m currently learning Go and improving my skills with Python
-- ⚡ "Fun" fact: I don't know what to put on my website
