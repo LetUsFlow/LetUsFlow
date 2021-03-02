@@ -4,5 +4,5 @@ I'm a hobby developer focusing on Java, web development (HTML, CSS, JS, PHP) and
 
 - 🔭 I’m currently mainly working on some Python projects
 - 🌱 I’m currently learning Go and improving my skills with Python
-- 🎓 I’m currently attending to to the higher technical school [HTL Rennweg](https://www.htl.rennweg.at/)
+- 🎓 I’m currently attending to to the higher technical school [HTL Rennweg](https://www.htlrennweg.at/)
   
