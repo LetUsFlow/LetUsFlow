@@ -1,4 +1,4 @@
-### Hi there 👋
+### **Hi there 👋**
 
 I'm a student for network engineering and a hobby developer focusing on Java, web development (HTML, CSS, JS, PHP) and Python.
 
