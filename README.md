@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm a hobby developer focusing on Java, web development (HTML, CSS, JS, PHP) and Python
+I'm a student for network engineering and a hobby developer focusing on Java, web development (HTML, CSS, JS, PHP) and Python.
 
-- 🔭 I’m currently mainly working on some Python projects
-- 🌱 I’m currently learning Go and improving my skills with Python
-- 🎓 I’m currently attending to to the higher technical school [HTL Rennweg](https://www.htlrennweg.at/)
-  
+- 🔭 My current projects are primarily written in Python 
+- 🌱 I’m currently learning Go and Rust and improving my skills with Python
+- 🎓 I’m currently attending [HTL Rennweg](https://www.htlrennweg.at/)
