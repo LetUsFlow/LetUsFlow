@@ -1,9 +1,34 @@
-### **Hi there 👋**
+# **Hi there 👋**
 
-I'm a network engineering and developer focusing on web development and Python.
+My name is Florentin and I'm a software developer and network engineer.
+I recently graduated from the higher technical vocational school [HTL Rennweg](https://www.htlrennweg.at/).
+My plan is to study *computer science* at the [Vienna University of Technology](https://www.tuwien.at/en/).
 
-- 🔭 My current projects are primarily written in Rust.
-- 💾 Lately I have been working with many different database technologies like MongoDB, PostgreSQL and TimescaleDB.
-- 🌱 I’m currently learning Go, Rust and Docker and improving my skills with Python
-- 🎓 I recently graduated from the higher technical vocational school [HTL Rennweg](https://www.htlrennweg.at/) and I am currently performing civil service at the [Arbeiter-Samariter-Bund Vienna](https://www.samariterbund.net/). After this I plan to study *informatics* at the [Vienna University of Technology](https://www.tuwien.at/en/).
-- 📄 This year I completed my diploma thesis focused on building a monitoring tool to regularly check and monitor important factors in an enterprise network and to point out potential anomalies.
+Tech-related interests:
+- Systems programming (with Rust)
+- Embedded programming and automation (ESP32 and Arduino using Rust and MicroPython)
+- Database technologys (PostgreSQL, MongoDB, TimescaleDB)
+- Linux & Windows servers
+- Network engineering
+
+## Projects 🔧
+
+-   [Rusty-BruhBot](https://github.com/LetUsFlow/Rusty-BruhBot) -
+    A blazingly 🦀 fast 🚀 Discord soundboard
+-   [Oxidized Klimostat](https://gitlab.com/letusstop/kls-rs) -
+    [Klimostat](https://github.com/Klimostat) 2.0,
+    rewritten in Rust and running on ESP32-C3
+-   [micropython-snippets](https://github.com/LetUsFlow/micropython-snippets) -
+    A small collection of MicroPython scripts for ESP32
+-   [Rusty Discord Mirrorbot](https://gitlab.com/letusstop/rusty-discord-mirrorbot) -
+    A utility to mirror messages between two Discord text channels
+-   [Discord Command Deletor](https://gitlab.com/letusstop/discord-command-deletor) -
+    A script to delete all commands in a Discord application
+-   [conways-gol](https://github.com/LetUsFlow/conways-gol) -
+    Game of Life implemented in Go with OpenGL
+-   [webOTP](https://github.com/LetUsFlow/webOTP) - A
+    browser based TOTP-client
+## Tools ⚙
+
+-   [IPcalc](https://ipcalc.letusflow.net/) - A
+    fully-featured IPv4 address calculator developed by a colleague
