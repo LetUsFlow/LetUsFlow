@@ -1,4 +1,4 @@
-# **Hi there 👋**
+## **Hi there 👋**
 
 My name is Florentin and I'm a software developer and network engineer.
 I recently graduated from the higher technical vocational school [HTL Rennweg](https://www.htlrennweg.at/).
@@ -11,7 +11,7 @@ Tech-related interests:
 - Linux & Windows servers
 - Network engineering
 
-## Projects 🔧
+### Projects 🔧
 
 -   [Rusty-BruhBot](https://github.com/LetUsFlow/Rusty-BruhBot) -
     A blazingly 🦀 fast 🚀 Discord soundboard
@@ -28,7 +28,7 @@ Tech-related interests:
     Game of Life implemented in Go with OpenGL
 -   [webOTP](https://github.com/LetUsFlow/webOTP) - A
     browser based TOTP-client
-## Tools ⚙
+### Tools ⚙
 
 -   [IPcalc](https://ipcalc.letusflow.net/) - A
     fully-featured IPv4 address calculator developed by a colleague
