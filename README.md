@@ -16,8 +16,7 @@ My plan is to study *computer science* at the [Vienna University of Technology](
 -   [Rusty-BruhBot](https://github.com/LetUsFlow/Rusty-BruhBot) -
     A blazingly 🦀 fast 🚀 Discord soundboard
 -   [Oxidized Klimostat](https://gitlab.com/letusstop/kls-rs) -
-    [Klimostat](https://github.com/Klimostat) 2.0,
-    rewritten in Rust and running on ESP32-C3
+    An air quality monitoring system written in Rust and running on ESP32-C3
 -   [micropython-snippets](https://github.com/LetUsFlow/micropython-snippets) -
     A small collection of MicroPython scripts for ESP32
 -   [Rusty Discord Mirrorbot](https://gitlab.com/letusstop/rusty-discord-mirrorbot) -
