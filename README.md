@@ -1,8 +1,9 @@
 ## **Hi there 👋**
 
 My name is Florentin and I'm a software developer and network engineer.<br>
-I recently graduated from the higher technical vocational school [HTL Rennweg](https://www.htlrennweg.at/).
-My plan is to study *computer science* at the [Vienna University of Technology](https://www.tuwien.at/en/).
+Currently, I am pursuing my studies in Computer Science at the [Vienna University of Technology](https://www.tuwien.at/en/).
+Prior to this, I successfully completed my education at the Higher Technical Institute [HTL Rennweg](https://www.htlrennweg.at/).
+
 
 **Tech-related interests:**
 - Systems programming (with Rust)
