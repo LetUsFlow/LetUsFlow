@@ -10,7 +10,7 @@ Prior to this, I successfully completed my education at the Higher Technical Ins
 - Embedded programming and automation (ESP32 and Arduino using Rust and MicroPython)
 - Database technologys (PostgreSQL, MongoDB, TimescaleDB)
 - Linux & Windows servers
-- Network engineering
+- Network engineering and IT security
 
 ### Projects 🔧
 
