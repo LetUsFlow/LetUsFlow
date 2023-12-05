@@ -16,13 +16,13 @@ Prior to this, I successfully completed my education at the Higher Technical Ins
 
 -   [Rusty-BruhBot](https://github.com/LetUsFlow/Rusty-BruhBot) -
     A blazingly 🦀 fast 🚀 Discord soundboard
--   [Oxidized Klimostat](https://gitlab.com/letusstop/kls-rs) -
+-   [Oxidized Klimostat](https://github.com/Oxidized-Klimostat/kls-rs) -
     An air quality monitoring system written in Rust and running on ESP32-C3
 -   [micropython-snippets](https://github.com/LetUsFlow/micropython-snippets) -
     A small collection of MicroPython scripts for ESP32
--   [Rusty Discord Mirrorbot](https://gitlab.com/letusstop/rusty-discord-mirrorbot) -
+-   [Rusty Discord Mirrorbot](https://github.com/LetUsFlow/Rusty-Discord-Mirrorbot) -
     A utility to mirror messages between two Discord text channels
--   [Discord Command Deletor](https://gitlab.com/letusstop/discord-command-deletor) -
+-   [Discord Command Deletor](https://github.com/LetUsFlow/Discord-Command-Deletor) -
     A script to delete all commands in a Discord application
 -   [conways-gol](https://github.com/LetUsFlow/conways-gol) -
     Game of Life implemented in Go with OpenGL
