@@ -6,8 +6,8 @@ Prior to this, I successfully completed my education at the Higher Technical Ins
 
 
 **Tech-related interests:**
-- Systems programming (with Rust)
-- Embedded programming and automation (ESP32 and Arduino using Rust and MicroPython)
+- Software development (with Rust, Java, Python, ...)
+- Embedded programming and automation (ESP32 using Rust)
 - Database technologys (PostgreSQL, MongoDB, TimescaleDB)
 - Linux & Windows servers
 - Network engineering and IT security
