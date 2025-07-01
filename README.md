@@ -30,5 +30,6 @@ Prior to this, I successfully completed my education at the Higher Technical Ins
     browser based TOTP-client
 ### Tools ⚙
 
+-   [TandeMD](https://tandemd.hansvader.enterprises/) - A streamlined collaborative markdown editor designed for instant teamwork. Simple to use, quick to get started. Developed as a university project.
 -   [IPcalc](https://ipcalc.letusflow.net/) - A
     fully-featured IPv4 address calculator developed by a colleague
